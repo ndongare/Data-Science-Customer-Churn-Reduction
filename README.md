@@ -1,5 +1,4 @@
 # Data-Science-Customer-Churn-Reduction
-Data Analysis for Southeast Airlines using R to reduce customer churn
 
 A survey on customer satisfaction by Southeast airlines has determined that there is a high attrition by the customers who use their airline and the partner airlines. The company is reassessing their loyalty program model and its ability to retain customers. The company is trying to use the customer satisfaction survey to determine the parameters which might help improve the customer satisfaction and retain customers.
 
